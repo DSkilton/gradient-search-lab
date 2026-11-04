@@ -49,4 +49,4 @@ The starter is a one-dimensional convex toy search, not neural-network training;
 
 Raw datasets, secrets, model checkpoints and private artefacts must not be committed. Record all source citations, licences, acquisition dates, split logic and evaluation decisions; do not state model performance until it has been independently measured.
 
-Read [research plan](docs/RESEARCH.md), [roadmap](docs/ROADMAP.md), [architecture](docs/ARCHITECTURE.md) and [data policy](docs/DATA_POLICY.md). Issues break the research into small, reviewable PRs.
+Read [issue #1 protocol](docs/EXPERIMENT_PROTOCOL.md), [research plan](docs/RESEARCH.md), [roadmap](docs/ROADMAP.md), [architecture](docs/ARCHITECTURE.md) and [data policy](docs/DATA_POLICY.md). Issues break the research into small, reviewable PRs.
