@@ -1,0 +1,24 @@
+# Gradle / Java / IDE
+.gradle/
+build/
+out/
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+# Local datasets and models
+data/raw/
+data/private/
+models/
+checkpoints/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# Misc
+*.log
+.DS_Store
+Thumbs.db
